@@ -12,8 +12,8 @@ etc...
 ## What we do on Github
 オープンソースの理念に基づき、技術や知識を自由に共有し、誰でもそれを利用して改善・発展させることを目指したリポジトリやプロジェクトを上げていこうと思っています。
 
-# リンク
-[一関高専 部紹介ページ](https://www.ichinoseki.ac.jp/life/tech-club.html#club26)
+## リンク
+[一関高専 部紹介ページ](https://www.ichinoseki.ac.jp/life/tech-club.html#club26)  
 [Instagram](https://instagram.com/eizouken.nit)
 
 <!---
